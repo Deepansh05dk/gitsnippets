@@ -14,7 +14,7 @@ GitSnippet Chat is an innovative Visual Studio Code extension that revolutionize
 
 ## Demo
 
-[\[Insert link to screen recording of the project here\]](https://drive.google.com/file/d/1U1PrBtOULFnIUv297vUf4MHjKKTlqZPj/view?usp=sharing)
+[\[Link to screen recording of the project here\]](https://drive.google.com/file/d/1U1PrBtOULFnIUv297vUf4MHjKKTlqZPj/view?usp=sharing)
 
 ## Challenges Faced and Solutions
 
@@ -71,6 +71,6 @@ To get started with the Git Command Chat extension:
 ## Acknowledgements
 
 - [VS Code Extension Documentation](https://code.visualstudio.com/api/get-started/your-first-extension)
-- [\[Any other resources or tutorials you found helpful\]](https://dev.to/rakshit47/create-vs-code-extension-with-react-typescript-tailwind-1ba6)
+- [\[Any other resources or tutorials found helpful\]](https://dev.to/rakshit47/create-vs-code-extension-with-react-typescript-tailwind-1ba6)
 
 ---
