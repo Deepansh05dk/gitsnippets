@@ -70,9 +70,7 @@ To get started with the Git Command Chat extension:
 
 ## Acknowledgements
 
-- VS Code Extension Documentation
-- React Documentation
-- OpenAI API Documentation
-- [Any other resources or tutorials you found helpful]
+- [VS Code Extension Documentation](https://code.visualstudio.com/api/get-started/your-first-extension)
+- [\[Any other resources or tutorials you found helpful\]](https://dev.to/rakshit47/create-vs-code-extension-with-react-typescript-tailwind-1ba6)
 
 ---
